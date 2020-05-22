@@ -1,7 +1,7 @@
 import ftplib
 import os
 def main():
-    file_name = 'allowances_csnox.zip' #downloading from EPA public FTP site
+    file_name = 'transaction_csnox.zip' #downloading from EPA public FTP site
     file_path='DMDnLoad/allowances'
     host='newftp.epa.gov'
     ftp_as_zip(file_name, file_path, host)
