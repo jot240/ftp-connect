@@ -1,2 +1,2 @@
 # ftp-connect
-connect to EPA public ftp site. Currently using this for AMPD data
+Scrape from the EPA public ftp site. Currently using this for AMPD data
